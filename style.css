@@ -1,3 +1,5 @@
+
+@media only screen and (max-width: 600px) {
 body{
 	margin:7%;
 	padding:5%;
@@ -90,4 +92,5 @@ footer{
 	color:#ba9fe3;
 	font-style:italic;
 	
+}
 }
